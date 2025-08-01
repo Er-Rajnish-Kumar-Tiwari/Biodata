@@ -11,9 +11,19 @@ import Tan9 from './p9.jpg';
 import Tan10 from './p10.jpg';
 import Tan11 from './p11.jpg';
 import Tan12 from './p12.jpg';
+import Tan13 from './p13.jpg';
 import './projects.css';
 
 const projectData = [
+  {
+    name: 'Tanish Doctor Appointment Booking App',
+    description:
+      'Tanish Doctor Appointment Booking App is a user-friendly platform that allows patients to book appointments with doctors online. The app provides a seamless experience for users to search for doctors, view their profiles, and schedule appointments at their convenience.',
+    technologies: ['HTML', 'CSS', 'JavaScript', 'React-js', 'Bootstrap','MongoDB','Node-js','Express-js','Tailwind-CSS'],
+    link: 'https://doctor-booking-system-jdde.onrender.com',
+    image: Tan13,
+  },
+
   {
     name: 'Tanish LMS App',
     description:
