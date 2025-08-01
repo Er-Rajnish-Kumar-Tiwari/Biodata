@@ -8,6 +8,7 @@ import Services from "../service"
 import Header from "./header"
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css';
+import Experience from "./experience"
 
 const App = () => {
 
@@ -25,6 +26,7 @@ const App = () => {
         <Route path="/projects" element={<Projects />} />
         <Route path="/skill" element={<Skill />} />
         <Route path="/services" element={<Services />} />
+        <Route path="/experience" element={<Experience />} />
 
       </Routes>
 

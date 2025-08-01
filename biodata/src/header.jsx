@@ -16,6 +16,7 @@ export default function Header() {
         <li><Link to='/Services' className={getLinkClass('/Services')}>Services</Link></li>
         <li><Link to='/Education' className={getLinkClass('/Education')}>Education</Link></li>
         <li><Link to='/Skill' className={getLinkClass('/Skill')}>Skills</Link></li>
+        <li><Link to='/experience' className={getLinkClass('/experience')}>Experience</Link></li>
         <li><Link to='/Projects' className={getLinkClass('/Projects')}>Projects</Link></li>
       </ul>
     </div>
