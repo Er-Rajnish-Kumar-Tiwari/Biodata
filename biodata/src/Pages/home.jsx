@@ -36,6 +36,11 @@ export default function Home() {
           <span className="text-cyan-400">Rajnish Kumar Tiwari</span>
         </h1>
 
+        {/* Short Intro */}
+        <p className="text-gray-300 text-sm sm:text-base mb-4">
+          Passionate Full Stack Developer with a strong foundation in MERN Stack and Application Development. I love solving real-world problems with clean and efficient code.
+        </p>
+
         {/* Typewriter Roles */}
         <TypeAnimation
           sequence={[
@@ -82,3 +87,4 @@ export default function Home() {
     </div>
   );
 }
+
