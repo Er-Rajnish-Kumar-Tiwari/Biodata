@@ -30,7 +30,7 @@ const About = () => {
 
           <div className="md:w-1/2 space-y-6">
             <p className="text-lg leading-relaxed">
-              Hi, I'm <span className="text-purple-400 font-semibold">Tanish Tiwari</span>, a passionate and creative
+              Hi, I'm <span className="text-purple-400 font-semibold">Rajnish Kumar Tiwari</span>, a passionate and creative
               <span className="text-purple-400 font-semibold"> Full Stack Web and App Developer</span> and
               <span className="text-purple-400 font-semibold"> Software Developer</span> from India. I specialize in building responsive, scalable, and secure web and mobile applications using modern technologies.
             </p>
@@ -61,3 +61,4 @@ const About = () => {
 };
 
 export default About;
+
