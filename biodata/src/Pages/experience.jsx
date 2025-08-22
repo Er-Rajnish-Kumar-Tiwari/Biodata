@@ -33,7 +33,7 @@ export default function Experience() {
             MERN Stack Developer Intern – CommuSync Pvt. Ltd., Noida
           </h3>
           <p className="text-sm text-gray-300 mb-2"> Duration: 6 Weeks</p>
-          <p className="text-sm text-gray-300 mb-4"> Role: MERN Stack Intern</p>
+          <p className="text-sm text-gray-300 mb-4"> Role: MERN Stack Developer Intern</p>
 
           <ul className="list-disc list-inside space-y-2 text-gray-200 text-sm pl-2">
 <li>Developed dynamic front-end components using React.js and Tailwind CSS</li>
@@ -50,6 +50,7 @@ export default function Experience() {
     </div>
   );
 }
+
 
 
 
