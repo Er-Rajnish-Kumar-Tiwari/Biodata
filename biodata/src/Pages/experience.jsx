@@ -30,7 +30,7 @@ export default function Experience() {
                 {/* Experience Card */}
         <div className="bg-[#1e293b] rounded-2xl p-6 shadow-lg">
           <h3 className="text-xl font-semibold text-orange-400 mb-4">
-            MERN Stack Intern – CommuSync Pvt. Ltd., Noida
+            MERN Stack Developer Intern – CommuSync Pvt. Ltd., Noida
           </h3>
           <p className="text-sm text-gray-300 mb-2"> Duration: 6 Weeks</p>
           <p className="text-sm text-gray-300 mb-4"> Role: MERN Stack Intern</p>
@@ -50,5 +50,6 @@ export default function Experience() {
     </div>
   );
 }
+
 
 
