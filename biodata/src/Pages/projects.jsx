@@ -13,6 +13,7 @@ import Tan10 from "../Pages/p10.jpg";
 import Tan11 from "../Pages/p11.jpg";
 import Tan12 from "../Pages/p12.jpg";
 import Tan13 from "../Pages/p13.jpg";
+import Tan14 from "../Pages/p14.jpg";
 
 const projectData = [
   {
@@ -29,7 +30,7 @@ const projectData = [
       "Tailwind-CSS",
     ],
     link: "https://tanish-chat-app.onrender.com",
-    image: Tan13,
+    image: Tan14,
   },
   {
     name: "Tanish Doctor Appointment Booking App",
@@ -220,4 +221,5 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
