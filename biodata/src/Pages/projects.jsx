@@ -16,6 +16,22 @@ import Tan13 from "../Pages/p13.jpg";
 
 const projectData = [
   {
+    name: "Tanish Chat App",
+    description:
+      "Tanish Chat App – A real-time messaging app with instant chat, last seen, and responsive UI.",
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React-js",
+      "Bootstrap",
+      "Firebase",
+      "Tailwind-CSS",
+    ],
+    link: "https://tanish-chat-app.onrender.com",
+    image: Tan13,
+  },
+  {
     name: "Tanish Doctor Appointment Booking App",
     description:
       "User-friendly app that lets patients search doctors, view profiles, and book appointments seamlessly.",
@@ -204,3 +220,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
