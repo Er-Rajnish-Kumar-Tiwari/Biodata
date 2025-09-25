@@ -49,7 +49,7 @@ export default function Experience() {
         {/* Experience Card */}
         <div className="bg-[#1e293b] rounded-2xl p-6 shadow-lg">
           <h3 className="text-xl font-semibold text-orange-400 mb-4 flex items-center gap-2">
-            <Briefcase />Application Developer – CREOMIND INNOVATIONS PRIVATE LIMITED
+            <Briefcase />Application Developer – CREOMIND INNOVATIONS PRIVATE LIMITED. Andhra Pradesh
           </h3>
           <p className="text-sm text-gray-300 mb-2"> Duration: 5 Weeks</p>
           <p className="text-sm text-gray-300 mb-4"> Role: Application Developer</p>
@@ -68,7 +68,7 @@ export default function Experience() {
         {/* Experience Card */}
         <div className="bg-[#1e293b] rounded-2xl p-6 shadow-lg">
           <h3 className="text-xl font-semibold text-orange-400 mb-4 flex items-center gap-2">
-            <Briefcase /> Full Stack Developer – Stefax IT Services
+            <Briefcase /> Full Stack Developer – Stefax IT Services. Gurgaon
           </h3>
           <p className="text-sm text-gray-300 mb-2"> Duration: August-2025 - Present</p>
           <p className="text-sm text-gray-300 mb-4"> Role: Full Stack Developer</p>
@@ -88,3 +88,4 @@ export default function Experience() {
     </div>
   );
 }
+
