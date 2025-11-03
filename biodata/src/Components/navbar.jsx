@@ -55,7 +55,7 @@ const Navbar = () => {
             }`}
             onClick={() => navigate("/education")}
           >
-            Education
+            Educations
           </li>
           <li
             className={`cursor-pointer hover:text-pink-500 transition duration-200 ${
@@ -136,7 +136,7 @@ const Navbar = () => {
               setIsOpen(false);
             }}
           >
-            Education
+            Educations
           </div>
           <div
             className={`cursor-pointer hover:text-pink-500 ${
@@ -178,3 +178,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
