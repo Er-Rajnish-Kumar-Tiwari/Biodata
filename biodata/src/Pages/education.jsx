@@ -31,7 +31,7 @@ const Education = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-black to-purple-900 text-white py-16 px-6 sm:px-10">
       <h2 className="text-4xl sm:text-5xl font-bold text-center mb-12">
-        Education
+        Educations
       </h2>
 
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-8">
@@ -54,3 +54,4 @@ const Education = () => {
 };
 
 export default Education;
+
