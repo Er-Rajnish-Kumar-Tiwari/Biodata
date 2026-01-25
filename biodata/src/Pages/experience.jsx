@@ -5,7 +5,7 @@ export default function Experience() {
     <div className="w-full min-h-screen bg-[#0f172a] text-white px-4 py-16">
       <div className="max-w-5xl mx-auto space-y-10">
         <div className="flex items-center gap-3">
-          <h2 className="text-3xl font-bold">Experience</h2>
+          <h2 className="text-3xl font-bold">Experiences</h2>
         </div>
 
         {/* Experience Card */}
@@ -88,5 +88,6 @@ export default function Experience() {
     </div>
   );
 }
+
 
 
