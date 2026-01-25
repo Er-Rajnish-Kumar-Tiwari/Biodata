@@ -13,7 +13,7 @@ export default function Experience() {
           <h3 className="text-xl font-semibold text-orange-400 mb-4 flex items-center gap-2">
             <Briefcase /> Software Development Engineer Full Time– NTS Nihon Global Pvt. Ltd., New Delhi
           </h3>
-          <p className="text-sm text-gray-300 mb-2"> Duration: 1st May 2025 – Present</p>
+          <p className="text-sm text-gray-300 mb-2"> Duration: 1st May 2025 – 25 October 2025</p>
           <p className="text-sm text-gray-300 mb-4"> Role: Software Development Engineer</p>
 
           <ul className="list-disc list-inside space-y-2 text-gray-200 text-sm pl-2">
@@ -88,6 +88,7 @@ export default function Experience() {
     </div>
   );
 }
+
 
 
 
