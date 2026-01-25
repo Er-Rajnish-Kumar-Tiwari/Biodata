@@ -11,10 +11,10 @@ export default function Experience() {
         {/* Experience Card */}
         <div className="bg-[#1e293b] rounded-2xl p-6 shadow-lg">
           <h3 className="text-xl font-semibold text-orange-400 mb-4 flex items-center gap-2">
-            <Briefcase /> Software Development Engineer Intern – NTS Nihon Global Pvt. Ltd., New Delhi
+            <Briefcase /> Software Development Engineer Full Time– NTS Nihon Global Pvt. Ltd., New Delhi
           </h3>
           <p className="text-sm text-gray-300 mb-2"> Duration: 1st May 2025 – Present</p>
-          <p className="text-sm text-gray-300 mb-4"> Role: Software Development Engineer Intern</p>
+          <p className="text-sm text-gray-300 mb-4"> Role: Software Development Engineer</p>
 
           <ul className="list-disc list-inside space-y-2 text-gray-200 text-sm pl-2">
             <li>Developed and maintained full-stack web applications using MERN stack</li>
@@ -68,7 +68,7 @@ export default function Experience() {
         {/* Experience Card */}
         <div className="bg-[#1e293b] rounded-2xl p-6 shadow-lg">
           <h3 className="text-xl font-semibold text-orange-400 mb-4 flex items-center gap-2">
-            <Briefcase /> Full Stack Developer – Stefax IT Services. Gurgaon
+            <Briefcase /> Full Stack Developer Full Time– Stefax IT Services. Gurgaon
           </h3>
           <p className="text-sm text-gray-300 mb-2"> Duration: August-2025 - Present</p>
           <p className="text-sm text-gray-300 mb-4"> Role: Full Stack Developer</p>
@@ -88,4 +88,5 @@ export default function Experience() {
     </div>
   );
 }
+
 
