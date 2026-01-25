@@ -158,7 +158,7 @@ const Navbar = () => {
               setIsOpen(false);
             }}
           >
-            Experience
+            Experiences
           </div>
           <div
             className={`cursor-pointer hover:text-pink-500 ${
@@ -178,5 +178,6 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
 
 
