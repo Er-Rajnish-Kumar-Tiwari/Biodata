@@ -71,7 +71,7 @@ const Navbar = () => {
             }`}
             onClick={() => navigate("/experience")}
           >
-            Experience
+            Experiences
           </li>
           <li
             className={`cursor-pointer hover:text-pink-500 transition duration-200 ${
@@ -178,4 +178,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
 
