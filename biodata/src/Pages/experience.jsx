@@ -70,7 +70,7 @@ export default function Experience() {
           <h3 className="text-xl font-semibold text-orange-400 mb-4 flex items-center gap-2">
             <Briefcase /> Full Stack Developer Full Time– Stefax IT Services. Gurgaon
           </h3>
-          <p className="text-sm text-gray-300 mb-2"> Duration: August-2025 - Present</p>
+          <p className="text-sm text-gray-300 mb-2"> Duration: August-2025 - febuary 2026</p>
           <p className="text-sm text-gray-300 mb-4"> Role: Full Stack Developer</p>
 
           <ul className="list-disc list-inside space-y-2 text-gray-200 text-sm pl-2">
@@ -88,6 +88,7 @@ export default function Experience() {
     </div>
   );
 }
+
 
 
 
